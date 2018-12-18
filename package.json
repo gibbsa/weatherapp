@@ -11,7 +11,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gibbsa/weatherapp.git"
-  }
+  },
   "homepage": "https://github.com/gibbsa/weatherapp#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
